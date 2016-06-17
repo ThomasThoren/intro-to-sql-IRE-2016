@@ -1,6 +1,6 @@
 # Intro to SQL
 
-This guide was made for the [hands-on SQL workshop](http://www.ire.org/events-and-training/event/2199/2634/) at IRE 2016 in New Orleans. It uses bridge inspection data from the Federal Highway Administration's Bridge Inventory Database.
+This guide was made for the [hands-on SQL workshop](http://www.ire.org/events-and-training/event/2199/2634/) at IRE 2016 in New Orleans. It uses bridge inspection data from the Federal Highway Administration's Bridge Inventory Database. You can [download the Louisiana data here](https://raw.githubusercontent.com/ThomasThoren/intro-to-sql-IRE-2016/master/bridge15_la.csv), courtesy of IRE.
 
 The rest of the hands-on SQL class material is located here: [http://bit.ly/hands_on_sql_ire2016](http://bit.ly/hands_on_sql_ire2016)
 
